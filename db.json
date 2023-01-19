@@ -2,21 +2,21 @@
   "invoices": [
     {
       "id": "RT3080",
-      "created_at": "22-08-2021",
+      "due_date": "22-08-2021",
       "name": "Jensen Huang",
       "amount": "1800",
       "status": "paid"
     },
     {
       "id": "RT3081",
-      "created_at": "23-08-2021",
+      "due_date": "23-08-2021",
       "name": "Dojo Manohara",
       "amount": "1500",
       "status": "pending"
     },
     {
       "id": "RT3082",
-      "created_at": "24-08-2021",
+      "due_date": "24-08-2021",
       "name": "Kimberly Struger",
       "amount": "1700",
       "status": "draft"
