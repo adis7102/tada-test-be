@@ -1,0 +1,17 @@
+{
+  "name": "tada-test-be",
+  "version": "1.0.0",
+  "description": "JSON-server for tada test FE",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "adi saputra",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
