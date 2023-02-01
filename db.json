@@ -1,25 +1,22 @@
 {
-  "invoices": [
+  "todoList": [
     {
-      "id": "RT3080",
-      "due_date": "2021-08-21",
-      "name": "Jensen Huang",
-      "amount": "1800",
-      "status": "paid"
+      "title": "Jogging",
+      "type": "Work Out",
+      "status": false,
+      "date": "2022-02-05"
     },
     {
-      "id": "RT3081",
-      "due_date": "2021-08-22",
-      "name": "Dojo Manohara",
-      "amount": "1500",
-      "status": "pending"
+      "title": "Jogging",
+      "type": "Work Out",
+      "status": false,
+      "date": "2022-02-05"
     },
     {
-      "id": "RT3082",
-      "due_date": "2021-08-23",
-      "name": "Kimberly Struger",
-      "amount": "1700",
-      "status": "pending"
+      "title": "Jogging",
+      "type": "Work Out",
+      "status": false,
+      "date": "2022-02-05"
     }
   ]
 }
