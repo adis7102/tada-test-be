@@ -4,21 +4,18 @@
       "id": 1,
       "title": "Jogging",
       "type": "Work Out",
-      "status": false,
       "date": "2022-02-05"
     },
     {
       "id": 2,
-      "title": "Jogging",
-      "type": "Work Out",
-      "status": false,
+      "title": "Belajar React",
+      "type": "Learning",
       "date": "2022-02-05"
     },
     {
       "id": 3,
-      "title": "Jogging",
-      "type": "Work Out",
-      "status": false,
+      "title": "Bersemedi",
+      "type": "Contemplating",
       "date": "2022-02-05"
     }
   ]
